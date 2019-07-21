@@ -23,17 +23,17 @@ Steps:
 
 1. Run TOR:
 
-	```
-	tor -f <torrc> [args]
-	```
+```
+tor -f <torrc> [args]
+```
 
 2. Run Privoxy
 
 3. Run the main file:
 
-	```
-	src/ud.py
-	```
+```
+src/ud.py
+```
 
 ## Authors
 
